@@ -8,7 +8,7 @@ An LLM-powered codebase assistant backend that indexes your project files, store
 
 Watch the demo video to see Ask Him in action:
 
-[![Watch the video](media\screenshot.png)](askhim.mp4)
+[![Watch the video](media/screenshot.png)](media/askhim.mp4)
 
 ---
 
