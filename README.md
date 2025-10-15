@@ -4,11 +4,11 @@ An LLM-powered codebase assistant backend that indexes your project files, store
 
 ---
 
-## Demo Video
+## Demo First!!!
 
-Watch the demo video to see Ask Him in action:
+Watch the demo video to see AskHim in action:
 
-[![Watch the video](media/screenshot.png)](media/askhim.mp4)
+[![Watch the video](media/askhim.gif)](media/askhim.mp4)
 
 ---
 
@@ -28,7 +28,7 @@ Watch the demo video to see Ask Him in action:
 #### Backend
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/hmgtech/askhim.git
 cd backend
 python3 -m venv venv
 source venv/bin/activate
