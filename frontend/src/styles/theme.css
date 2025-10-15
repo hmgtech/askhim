@@ -1,0 +1,39 @@
+:root {
+  /* Background Colors */
+  --background-primary: #1e293b;
+  --background-secondary: #0f172a;
+  --background-tertiary: #334155;
+  --background-gradient: linear-gradient(to right, #0f172a, #1e293b);
+  
+  /* Text Colors */
+  --text-primary: #f8fafc;
+  --text-secondary: #e2e8f0;
+  --text-muted: #94a3b8;
+  --text-accent: #38bdf8;
+  
+  /* Border Colors */
+  --border: #334155;
+  
+  /* Button Colors */
+  --button-primary: #0ea5e9;
+  --button-hover: #0284c7;
+  --button-disabled: #64748b;
+  
+  /* Message Colors */
+  --message-user-background: #0ea5e9;
+  --message-user-text: #f8fafc;
+  --message-bot-background: #334155;
+  --message-bot-text: #f8fafc;
+  --message-bot-border: 1px solid #475569;
+  
+  /* Code Colors */
+  --code-background: #1e293b;
+  
+  /* Execution Colors */
+  --execution-background: rgba(14, 165, 233, 0.1);
+  --execution-text: #94a3b8;
+  --execution-accent: #38bdf8;
+  
+  /* Shadow */
+  --shadow: rgba(0, 0, 0, 0.2);
+}

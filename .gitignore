@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Milvus data (if stored locally)
+milvus_data/
+node_modules/
+tree-sitter-bash/
+tree-sitter-groovy/
+tree-sitter-python/
+tree-sitter-typescript/

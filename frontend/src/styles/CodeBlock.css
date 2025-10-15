@@ -1,0 +1,9 @@
+.code-block {
+  font-size: 0.85rem;
+  border-radius: 0.25rem;
+  margin: 0;
+  padding: 0.5rem;
+  background: #282c34;
+  overflow-x: auto;
+  max-height: 200px;
+}
